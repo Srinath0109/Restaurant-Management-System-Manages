@@ -1,0 +1,8 @@
+RestaurantManagement/
+│── app.py                # Main Flask application
+│── routes.py             # API endpoints
+│── models.py             # Database models (Orders, Menu, Bills)
+│── database.py           # Database setup (SQLite)
+│── utils.py              # Helper functions
+│── requirements.txt      # Dependencies
+│── README.md             # Documentation
